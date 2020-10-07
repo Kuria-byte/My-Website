@@ -1,7 +1,7 @@
 # My-Website
 ![kuria](https://user-images.githubusercontent.com/61579772/95321203-4b534b80-08cd-11eb-91ca-83d6ccf6b309.jpg)
 This is an Website I engineered  to expand my digital reach
-# Portfolio
+## About
 This is a personal website that can be used to showcase your developer skills to recruiters and potential prsopects.
 - https://iankuria.netlify.app/
 
