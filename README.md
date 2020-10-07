@@ -56,10 +56,11 @@ All animation sliders are built with Animate.css, you can find documentation her
 - https://www.divinector.com/
 - https://gtmetrix.com/
 - http://fancyapps.com/fancybox/3/
+- https://github.com/alvarotrigo/pagePiling.js/
 - https://owlcarousel2.github.io/OwlCarousel2/
 - https://web.dev/vitals/
 - https://www.youtube.com/watch?v=qUrDCnjSRIs&ab_channel=CodeTube
 - https://developers.facebook.com/docs/graph-api/
 
 ### Inspiration ❤
-http://paul-themes.com/html/ramsay/?storefront=envato-elements
+- https://www.awwwards.com/
