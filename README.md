@@ -13,7 +13,7 @@ This is a personal website that can be used to showcase your developer skills to
 - Netlify Forms & PHP Mail sender 
 - Web crawlers & Site map
 - Advanced SEO 
-- Site Indexing
+- SAAS
 - Web-testing
 - SSL certificates
 - Website-optimization
