@@ -47,6 +47,9 @@ All animation sliders are built with Animate.css, you can find documentation her
 - YouTube & Vimeo videos can be used with fancybox by just providing the page URL.
 - You can also use this plugin for displaying zoom images.http://fancyapps.com/fancybox/3/
 
+## Web Test
+![ian](https://user-images.githubusercontent.com/61579772/95325348-a425e280-08d3-11eb-9286-46420c1aebbd.jpg)
+
 ### References
 - https://www.divinector.com/
 - https://gtmetrix.com/
