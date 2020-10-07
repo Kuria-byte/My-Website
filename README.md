@@ -10,6 +10,8 @@ This is a personal website that can be used to showcase your developer skills to
 - Bootstrap 4
 - Owl Carousel- jQuery plugin that lets you create a beautiful responsive carousel slider.
 - Fancy Box
+- Typed Js
+- Page Piling
 - Netlify Forms & PHP Mail sender 
 - Web crawlers & Site map
 - Advanced SEO 
