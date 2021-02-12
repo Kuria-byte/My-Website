@@ -3,7 +3,7 @@
 This is an Website I engineered  to expand my digital reach
 ## About
 This is a personal website that can be used to showcase your developer skills to recruiters and potential prsopects.
-- https://kuriadev.tech/
+- https://kuriaportflio.netlify.app/
 
  
 ## What I learnt📐
