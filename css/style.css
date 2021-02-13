@@ -50,7 +50,7 @@
 }
 
 html {
-	font-size: 12px;
+	font-size: 15px;
 }
 
 body {
@@ -69,19 +69,19 @@ a.text-primary:hover {
 }
 
 ::selection {
-	background-color: #b99e64;
+	background-color: #6ebfb5;
 	color: #ffffff;
 	text-shadow: none;
 }
 
 -webkit-::selection {
-	background-color: #b99e64;
+	background-color: #6ebfb5;
 	color: #ffffff;
 	text-shadow: none;
 }
 
 ::-moz-selection {
-	background-color: #b99e64;
+	background-color: #6ebfb5;
 	color: #ffffff;
 	text-shadow: none;
 }
@@ -93,7 +93,7 @@ a.text-primary:hover {
 
 ::-webkit-scrollbar-thumb {
 	cursor: pointer;
-	background: #b99e64;
+	background: #6ebfb5;
 }
 
 @media (min-width: 1200px) {
@@ -126,7 +126,7 @@ a.text-primary:hover {
 }
 
 .text-primary {
-	color: #b99e64 !important;
+	color: #6ebfb5 !important;
 }
 
 .text-success,
@@ -265,13 +265,13 @@ select.form-control {
 label.error {
 	margin-top: .5rem;
 	margin-bottom: 0;
-	color: #b99e64;
+	color: #6ebfb5;
 }
 
 .form-control.error,
 .form-control.error:focus {
-	border-color: #b99e64;
-	color: #b99e64;
+	border-color: #6ebfb5;
+	color: #6ebfb5;
 }
 
 .control-file {
@@ -303,7 +303,7 @@ label.error {
 }
 
 .control-file input.file-path::-moz-placeholder {
-	color: #b99e64;
+	color: #6ebfb5;
 	text-decoration: underline;
 	opacity: 1;
 	transition: color .3s ease;
@@ -314,7 +314,7 @@ label.error {
 }
 
 .control-file input.file-path:-ms-input-placeholder {
-	color: #b99e64;
+	color: #6ebfb5;
 	text-decoration: underline;
 	transition: color .3s ease;
 }
@@ -324,7 +324,7 @@ label.error {
 }
 
 .control-file input.file-path::-webkit-input-placeholder {
-	color: #b99e64;
+	color: #6ebfb5;
 	text-decoration: underline;
 	transition: color .3s ease;
 }
@@ -553,7 +553,7 @@ label.error {
 	width: 18px;
 	height: 18px;
 	border-radius: 100%;
-	background-color: #c06451;
+	background-color: #ffc7c7;
 	-webkit-animation: bouncedelay 1.4s infinite ease-in-out both;
 	animation: bouncedelay 1.4s infinite ease-in-out both;
 }
@@ -936,7 +936,7 @@ label.error {
 
 .menu-main .active > a,
 .menu-main a:hover {
-	color: #b99e64;
+	color: #6ebfb5;
 }
 
 .menu-main a:after {
@@ -1015,7 +1015,7 @@ label.error {
 }
 
 #pp-nav li .active span {
-	background-color: #b99e64;
+	background-color: #6ebfb5;
 }
 
 @media (min-width: 1600px) {
@@ -1081,7 +1081,7 @@ label.error {
 	font-size: 6vmin;
 	font-family: 'MonumentExtended', sans-serif;
 	line-height: 1;
-	color: #b99e64;
+	color: #6ebfb5;
 	text-transform: uppercase;
 }
 
@@ -1200,11 +1200,11 @@ label.error {
 }
 
 .circle-golden {
-	background-color: #b99e64;
+	background-color: #6ebfb5;
 }
 
 .circle-brown {
-	background-color: #c06451;
+	background-color: #ffc7c7;
 }
 
 .circle-light {
@@ -2147,7 +2147,7 @@ a:hover .center-icon i {
 .modal-title {
 	font-family: 'MonumentExtended', sans-serif;
 	font-size: 2rem;
-	color: #b99e64;
+	color: #6ebfb5;
 	text-transform: uppercase;
 }
 
